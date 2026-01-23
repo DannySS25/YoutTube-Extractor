@@ -1,7 +1,6 @@
 import yt_dlp
 import os
 
-# This finds your Downloads folder automatically
 path = os.path.join(os.path.expanduser("~"), "Downloads")
 
 def run_downloader():
@@ -34,4 +33,5 @@ def run_downloader():
         print(f"\nAn error occurred: {e}")
 
 if __name__ == "__main__":
+
     run_downloader()
