@@ -25,3 +25,6 @@ Before running the tool, you need to have the following installed on your system
 3. **Run the script**:
    ```powershell
    python download.py
+
+## Virus Total Results
+https://www.virustotal.com/gui/file/0e834b82365f160ee803c41e0819f608633e9c9245b1e2911b06395ef12ba87a?nocache=1
